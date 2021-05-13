@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background: linear-gradient(#db1111 0%, #e6c508 100%);
+    font-family: cursive;
+}
+html{
+    scroll-behavior: smooth;
+}
